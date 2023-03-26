@@ -1,0 +1,21 @@
+h1
+{
+	text-align: center;
+	border-style: dotted;
+	border-radius: 15px;
+}
+
+body
+{
+	background-image: url(../img/Neon.jpg);
+}
+
+#carte-graphique
+{
+	color: black;
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}

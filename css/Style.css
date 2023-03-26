@@ -1,0 +1,25 @@
+h1
+{
+	color: white; /*pour mettre la couleur de mon texte h1 en blanc*/
+	text-align: center;/*pour que mon texte soit aligner au centre*/
+}
+
+body
+{
+	background-image: url(../img/Space.jpg);/*Background image sert a mettre une image de mes document soit en arrière plan de mon site*/
+}
+
+#Acceuille
+{
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+
+h2
+{
+	color: white;
+	text-align: center;
+}
+
+
